@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @qasim005
 - 👀 I’m interested in Learning New things
-- 🌱 I’m currently learning node js
